@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="7073df49514b46729819ed8f5df03bc6" Name="Diagram1">
+        <EntityTypeShape EntityType="HomeRentModel.BookingDetail" Width="1.5" PointX="7.5" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="HomeRentModel.Booking" Width="1.5" PointX="5.25" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HomeRentModel.Flat" Width="1.5" PointX="3" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="HomeRentModel.Token" Width="1.5" PointX="3" PointY="11.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="HomeRentModel.User" Width="1.5" PointX="0.75" PointY="5.125" IsExpanded="true" />
+        <AssociationConnector Association="HomeRentModel.FK_BookingDetail_Bookings" ManuallyRouted="false" />
+        <AssociationConnector Association="HomeRentModel.FK_BookingDetail_Flats" ManuallyRouted="false" />
+        <AssociationConnector Association="HomeRentModel.FK_Bookings_Flats" ManuallyRouted="false" />
+        <AssociationConnector Association="HomeRentModel.FK_Bookings_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="HomeRentModel.FK_Flats_Flats" ManuallyRouted="false" />
+        <AssociationConnector Association="HomeRentModel.FK_Flats_Flats1" ManuallyRouted="false" />
+        <AssociationConnector Association="HomeRentModel.FK_Flats_Flats2" ManuallyRouted="false" />
+        <AssociationConnector Association="HomeRentModel.FK_Flats_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="HomeRentModel.FK_Tokens_Users" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

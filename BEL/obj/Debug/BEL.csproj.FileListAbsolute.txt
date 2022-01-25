@@ -1,0 +1,24 @@
+F:\Teaching\fall\DemoApp\BEL\bin\Debug\BEL.dll
+F:\Teaching\fall\DemoApp\BEL\bin\Debug\BEL.pdb
+F:\Teaching\fall\DemoApp\BEL\obj\Debug\BEL.csprojAssemblyReference.cache
+F:\Teaching\fall\DemoApp\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+F:\Teaching\fall\DemoApp\BEL\obj\Debug\BEL.dll
+F:\Teaching\fall\DemoApp\BEL\obj\Debug\BEL.pdb
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\BEL\bin\Debug\BEL.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\BEL\bin\Debug\BEL.pdb
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\BEL\obj\Debug\BEL.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\BEL\obj\Debug\BEL.pdb
+C:\FinalRandom\blog_api-master\blog_api-master\BEL\bin\Debug\BEL.dll
+C:\FinalRandom\blog_api-master\blog_api-master\BEL\bin\Debug\BEL.pdb
+C:\FinalRandom\blog_api-master\blog_api-master\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+C:\FinalRandom\blog_api-master\blog_api-master\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\FinalRandom\blog_api-master\blog_api-master\BEL\obj\Debug\BEL.dll
+C:\FinalRandom\blog_api-master\blog_api-master\BEL\obj\Debug\BEL.pdb
+C:\FinalRandom\HMS\HMS\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\FinalRandom\HMS\HMS\BEL\bin\Debug\BEL.dll
+C:\FinalRandom\HMS\HMS\BEL\bin\Debug\BEL.pdb
+C:\FinalRandom\HMS\HMS\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+C:\FinalRandom\HMS\HMS\BEL\obj\Debug\BEL.dll
+C:\FinalRandom\HMS\HMS\BEL\obj\Debug\BEL.pdb
